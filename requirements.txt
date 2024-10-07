@@ -1,6 +1,6 @@
 pyautogui 
-pygetwindow 
-pynput 
+pynput
+pygetwindow  
 keyboard
 loguru
 pyscreeze
