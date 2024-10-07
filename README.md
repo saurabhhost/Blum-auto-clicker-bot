@@ -6,7 +6,6 @@
 </head>
 <body>
     <h1>Blum Auto Clicker</h1>
-    <p><em>Image Placeholder</em></p>
     
   <p><strong>Blum Auto Clicker</strong> is a powerful tool designed to assist you in managing and interacting with <strong>BlumCryptoBot</strong>. It automatically clicks on green objects in the game, helping you earn between 200-250 blums with minimal effort.</p>
 
